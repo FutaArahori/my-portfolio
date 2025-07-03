@@ -44,8 +44,8 @@
 
 ### 🎥 スクリーンショット
 <p float="left">
-  <img src="images/460x0w.jpg" width="200" />
-  <img src="images/460x1w.jpg" width="200" />
+  <img src="images/schema1.png" width="200" />
+  <img src="images/schema2.jpg" width="200" />
 </p>
 
 
