@@ -8,7 +8,9 @@
 # iOS App Portfolio
 
 今までに開発したiOSアプリをまとめています。
-個人開発の経験があり、UI/UXと設計の両方を意識して開発しています。
+
+個人開発ではありますが、UI/UXと設計の両方を意識して開発しています。
+
 📱 [App Storeのリンク](https://apps.apple.com/us/developer/futa-arahori/id1688547044)
 [その他](https://apps.apple.com/jp/app/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BCtodo/id6444066369)
 
