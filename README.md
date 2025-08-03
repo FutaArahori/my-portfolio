@@ -1,7 +1,7 @@
 ## 👤 自己紹介
 
-現在AIエンジニアとして勤務していますが、個人でiOSアプリ・webアプリ開発にも力を入れており、  
-複数のアプリを個人でリリースしています。
+現在AIエンジニアとして勤務していますが、個人でiOSアプリ・webアプリ開発にも力を入れており、複数のアプリを個人でリリースしています。  
+現在、java、Spring Boot、Reactを勉強中で、[こちら](https://github.com/FutaArahori/my-memo-card-app)のようなwebアプリも作成しています。
 
 - 技術スタック: Flutter / Firebase / Python / HTML / CSS
 
@@ -12,7 +12,7 @@
 
 個人開発ではありますが、UI/UXと設計の両方を意識して開発しています。
 
-📱 [App Storeのリンク](https://apps.apple.com/us/developer/futa-arahori/id1688547044)
+📱 [App Storeのリンク](https://apps.apple.com/us/developer/futa-arahori/id1688547044)  
 [その他](https://apps.apple.com/jp/app/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BCtodo/id6444066369)
 
 
